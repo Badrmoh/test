@@ -1,4 +1,4 @@
 [
-  {"name":"anvils-1.1.rpm", "value":"/dist/RPMS/noarch/anvils-1.1.rpm"},
-  {"name":"anvils-1.2.rpm", "value":"/dist/RPMS/noarch/anvils-1.2.rpm"}
+  "/dist/RPMS/noarch/anvils-1.1.rpm",
+  "/dist/RPMS/noarch/anvils-1.2.rpm"
 ]
